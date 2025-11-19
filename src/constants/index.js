@@ -5,5 +5,5 @@ export const navLinks = [
                     {label: 'iPhone', href: '#iphone'},
                     {label: 'Watch', href: '#watch'},
                     {label: 'AirPods', href: '#airpods'},
-                    {label: 'Vision', href: '#tvhome'},
+                    {label: 'Vision2', href: '#tvhome'},
                 ]
